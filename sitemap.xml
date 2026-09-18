@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://roofleakingkl.com/</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://roofleakingkl.com/assets/roof-1.jpg</image:loc>
+      <image:title>Roof repair and waterproofing in KL and Selangor</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://roofleakingkl.com/assets/roof-3.jpg</image:loc>
+      <image:title>Roof leaking repair specialist KL Selangor</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://roofleakingkl.com/assets/roof-4.jpg</image:loc>
+      <image:title>Roof tile crack repair KL Selangor</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://roofleakingkl.com/assets/plumbing-1.jpg</image:loc>
+      <image:title>Plumbing and piping service KL Selangor</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://roofleakingkl.com/assets/aircond-1.jpg</image:loc>
+      <image:title>Aircond chemical wash service KL Selangor</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Block nothing — this is a public single-page marketing site.
+# Assets are needed by search engines for image indexing.
+
+Sitemap: https://roofleakingkl.com/sitemap.xml
