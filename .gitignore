@@ -1,0 +1,5 @@
+.env*
+.vercel
+_fullpage.png
+_*.png
+node_modules/
